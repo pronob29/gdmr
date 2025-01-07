@@ -2,8 +2,6 @@
 # -*- coding: utf-8 -*-
 
 # Latent Dirichlet Allocation + collapsed Gibbs sampling
-# This code is available under the MIT License.
-# (c)2010-2011 Nakatani Shuyo / Cybozu Labs Inc.
 
 import numpy as np
 import random
