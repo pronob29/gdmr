@@ -14,7 +14,11 @@ Through experiments on a large-scale dataset from **MedHelp.com**, we show that 
 
 ## Credit and Acknowledgements
 
-This project was developed as part of a PhD research project by **Pronob Kumar Barman**. The repository for this project is maintained on GitHub at **[pronob29/gDMR](https://github.com/pronob29/gdmr)**.
+This project was developed as part of a PhD research project by **Pronob Kumar Barman**. The repository for this project is maintained on GitHub at **[pronob29/gDMR](https://github.com/pronob29/gdmr)**. This project builds upon the original implementation of Dirichlet Multinomial Regression (DMR) developed by mpkato. We extend their codebase to introduce group-specific modeling capabilities and graph-based user representations.
+
+🔗 Original DMR GitHub Repository: https://github.com/mpkato/dmr
+
+We sincerely thank the original authors for making their implementation publicly available and serving as the foundational basis for our extensions.
 
 ## Installation
 
